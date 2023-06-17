@@ -1,0 +1,42 @@
+body {
+    
+    height: 100vh;
+    margin: 0px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.banner {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 10px;
+    background-color: #333333;
+    font-size: 2rem;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    padding: 10px;
+    background-color: #333333;
+    font-size: 1rem;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
